@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+} 
+#score {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15px;
+}
+
+#timer {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 15px;
+}
+#sketch_to_be_drawn {
+    color: blue;
+}
